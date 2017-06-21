@@ -1,0 +1,9 @@
+exiftool -comment="Photo from down-looking camera on the USGS SEABOSS deployed from the R/V Rafael during survey 2012-003-FA (http://woodshole.er.usgs.gov/operations/ia/public_ds_info.php?fa=2012-003-FA). Released as part of publication DOI:10.3133/ds937."
+
+exiftool -sep ", " -keywords="Barnegat Bay, New Jersey, 2012-003-FA, SEABOSS, sea floor, USGS "
+
+exiftool -Caption="Photograph of the sea floor in Barnegat Bay, New Jersey from survey 2012-003-FA "
+
+exiftool -Caption-Abstract="Photograph of the sea floor in Barnegat Bay, New Jersey from survey 2012-003-FA "
+
+exiftool -ImageDescription="Photograph of the sea floor in Barnegat Bay, New Jersey from survey 2012-003-FA "
